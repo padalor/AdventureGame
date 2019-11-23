@@ -1,0 +1,39 @@
+OBJECTIVE
+The main objective is to create a text based story
+1)
+2) 
+3) 
+4) 
+5)
+
+PSEUDOCODE
+
+MAD_LIB = 
+
+LIST_OF_USER_INPUT = []
+
+def inputFunction(type)
+    
+    ask user: "Please enter a " + type
+    
+    store answer in LIST_OF_USER_INPUT
+    use .append(x)
+    
+inputFunction(adjective)
+inputFunction(noun)
+inputFunction(past tense verb)
+inputFunction(adverb)
+inputFunction(adjective)
+inputFunction(noun)
+inputFunction(noun)
+inputFunction(adjective)
+inputFunction(verb)
+inputFunction(adverb)
+inputFunction(past tense verb)
+inputFunction(adjective)
+
+LIST_OF_USER_INPUT[11]
+
+filledMadLib = MAD_LIB.format
+
+print(filledMadLib)
